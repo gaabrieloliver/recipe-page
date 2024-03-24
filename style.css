@@ -47,7 +47,7 @@ h1 {
     color: hsl(24, 5%, 18%);
 }
 
-h2 , table strong {
+h2 , table strong, li::marker {
     color: hsl(14, 45%, 36%);
 }
 

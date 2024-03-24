@@ -1,0 +1,77 @@
+/*
+    @font-face
+    Tipos de format()
+    - opentype (otf)
+    - truetype (ttf)
+    - embedded-opentype
+    - truetype-aat (Apple Advanced Typography)
+    - svg
+*/
+
+@charset 'UTF-8';
+@font-face {
+    font-family: 'Outfit';
+    src: url('fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400, 600, 700;
+}
+@font-face {
+    font-family: 'Young Serif';
+    src: url('fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+body {
+    background-color: hsl(30, 18%, 87%);
+    color: hsl(30, 10%, 34%);
+    font-family: 'Outfit';
+}
+
+.imgOmelete img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 12px;
+    padding: 2em;
+    margin: 15% 15%;
+}
+
+
+h1, h2 {
+    font-family: 'Young Serif';
+}
+
+h1 {
+    color: hsl(24, 5%, 18%);
+}
+
+h2 , table strong {
+    color: hsl(14, 45%, 36%);
+}
+
+.preparacao {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 14px;
+    padding: 1em;
+    margin: 1em;
+}
+
+.preparacao h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding: 5px 30px;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+td:last-child {
+    border-right: none;
+}

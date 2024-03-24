@@ -37,7 +37,7 @@ Podendo usar qualquer ferramenta que eu pudesse para ajudar a completar o desafi
 
 Baixando o código inicial e analisando o README.md do arquivo. Pude receber mais detalhes sobre o projeto. O style-guide.md do arquivo foi onde eu encontrei cores, fontes, etc.
 
-- [Acesse o projeto finalizado, online](https://gaabrieloliver.github.io/site-bikcraft/)
+- [Acesse o projeto finalizado, online](https://gaabrieloliver.github.io/recipe-page/)
 
 - Compatível em PCs.
 

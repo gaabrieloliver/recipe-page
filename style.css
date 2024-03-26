@@ -23,7 +23,7 @@
 body {
     background-color: hsl(30, 18%, 87%);
     color: hsl(30, 10%, 34%);
-    font-family: 'Outfit';
+    font-family: 'Outfit', Arial, Helvetica, sans-serif;
 }
 
 .imgOmelete img {
@@ -40,7 +40,7 @@ main {
 
 
 h1, h2 {
-    font-family: 'Young Serif';
+    font-family: 'Young Serif', Arial, Helvetica, sans-serif;
 }
 
 h1 {
